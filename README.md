@@ -1,0 +1,1 @@
+# plugins-wp-strip-image-metadata
